@@ -1,9 +1,6 @@
 # INRESTÒ 
 
-INRESTÒ  deals with the problems of managing the restaurant and avoids problems which occur when carried out manually. 
-INRESTÒ  will improve their services for all the customers of the restaurant. The admin will have access over employee details, employee attendance.
-He can receive order from customer and send the takeaway orders to the kitchen supervisor. The waiter will have access to the inmate details, bills. 
-The supervisor in the kitchen view’s the orders sent by the waiter and the admin and specify the orders to respective cook.
+INRESTÒ is an android application adeals with the problems of managing the restaurant and avoids problems that occur when carried out manually. E-POPINA will improve its services for all the customers of the restaurant. The admin will have access to employee details, employee attendance. He can receive orders from customers and send the takeaway orders to the kitchen supervisor. The waiter will have access to the inmate details, bills. The supervisor in the kitchen view’s the orders sent by the waiter and the admin and specifies the orders to the respective cook.
 
 # Features
 #### Admin Features:
