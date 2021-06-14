@@ -1,5 +1,9 @@
 # INRESTÒ 
 
+| <img src=https://user-images.githubusercontent.com/57553824/121926835-ff11b280-cd5b-11eb-99eb-b96fc95cdeed.png width="100" height="100">  | <img src=https://user-images.githubusercontent.com/57553824/121927109-4e57e300-cd5c-11eb-812b-8211564be535.png width="100" height="100"> | <img src=https://user-images.githubusercontent.com/57553824/121928589-eb674b80-cd5d-11eb-9860-1a70a97ef1f0.png width="100" height="100"> |
+|:---:|:---:|:---:|
+| INRESTÒ_ADMIN | INRESTÒ_KITCHEN |INRESTÒ_STAFF | 
+
 INRESTÒ is a set of 3 android applications adeals with the problems of managing the restaurant and avoids problems that occur when carried out manually. INRESTÒ will improve its services for all the customers of the restaurant. The admin will have access to employee details, employee attendance. He can receive orders from customers and send the takeaway orders to the kitchen supervisor. The waiter will have access to the inmate details, bills. The supervisor in the kitchen view’s the orders sent by the waiter and the admin and specifies the orders to the respective cook.
 
 # Features
