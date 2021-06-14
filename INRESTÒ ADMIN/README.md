@@ -1,4 +1,4 @@
- # admin Features:
+ # Admin Features:
  
  An Administrator provides administrative support to either a team or individual. This role is vital for the smooth-running of a business.
 
@@ -12,3 +12,6 @@
 *	The monthly report admin have to enter the cost like electricity bill, water bill, etc. and the total report will be generated and the admin have to take screenshot manually in order to save the report.
 *	Employee management: Admin has control over the employees he can add new employee,  and also view details of them 
 
+| <img src=https://user-images.githubusercontent.com/57553824/121931341-2028d200-cd61-11eb-908d-8a7c2fa5344c.png width="400" height="500" align="center" > 
+|:---:|
+| DFD for Admin |
