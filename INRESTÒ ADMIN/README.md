@@ -1,4 +1,5 @@
- admin Features:
+ # admin Features:
+ 
  An Administrator provides administrative support to either a team or individual. This role is vital for the smooth-running of a business.
 
 *	Scan QR code: A unique QR code will be assigned for each employee, admin will scan the QR code for attendance purpose.
