@@ -8,7 +8,7 @@ INRESTÒ is a set of 3 android applications adeals with the problems of managing
 
 
 
-#### Product Features
+### Product Features
 
 *	Multiple orders can be taken by the waiter.
 *	Employee details and new employee registration.
