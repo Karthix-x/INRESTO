@@ -6,34 +6,7 @@
 
 INRESTÒ is a set of 3 android applications adeals with the problems of managing the restaurant and avoids problems that occur when carried out manually. INRESTÒ will improve its services for all the customers of the restaurant. The admin will have access to employee details, employee attendance. He can receive orders from customers and send the takeaway orders to the kitchen supervisor. The waiter will have access to the inmate details, bills. The supervisor in the kitchen view’s the orders sent by the waiter and the admin and specifies the orders to the respective cook.
 
-# Features
-#### Admin Features:
- An Administrator provides administrative support to either a team or individual. This role is vital for the smooth-running of a business.
 
-*	Scan QR code: A unique QR code will be assigned for each employee, admin will scan the QR code for attendance purpose.
-*	View attendance: The attendance of each employee can be viewed.
-*	Menu management: The menu can be completely modified and new items can be added, deleted and update price also. This updated menu will be displayed on the waiter’s device also.
-*	Catering: The customer’s details and respective orders are stored along with the date of delivery. 
-*	Takeaway: The takeaway orders will be taken by the admin which will be sent to the kitchen supervisor and admin will generate bills of takeaway ordes.
-*	Report: The report can be generated of two types daily report and monthly report 
-*	The daily report consist of the total of all the bills table orders and takeaway orders of each day
-*	The monthly report admin have to enter the cost like electricity bill, water bill, etc. and the total report will be generated and the admin have to take screenshot manually in order to save the report.
-*	Employee management: Admin has control over the employees he can add new employee,  and also view details of them 
-
-
-#### Waiter Features:
-	 
-  Waiters are responsible for taking orders and serving food and beverages to guests. They play an important role in guest satisfaction as they are also responsible for checking on customers to ensure that they are enjoying their meals and take action to correct any problems.
-*	Orders: The table orders are accepted by the customer and confirmed by the waiter the order list containing table number will be sent to kitchen supervisor app.
-*	Update orders: If the customer needs to update order can be done.
-*	Bill: The bill will be generated according to the table number and displayed to the customer from the waiter’s device, the customer later pays the bill.
-
-#### Kitchen Features:
-A kitchen is a room or part of a room used for cooking and food preparation in a dwelling or in a commercial establishment. 
-
-*	The orders placed by the waiter and admin will be displayed in the device placed in the kitchen.
-*	The supervisor assigns orders to the cook, the cook prepares the order and the waiter serves the order to the respective table.
-*	Food ready: When the food is ready the supervisor taps the button and the waiter will be notified by the table number.  
 
 #### Product Features
 
@@ -44,6 +17,18 @@ A kitchen is a room or part of a room used for cooking and food preparation in a
 *	The monthly report can be generated  by entering electricity bill, water bill, miscellaneous expenses we can generate a monthly  report of hotel 
 *	Each employee will be provided with a unique QR code which will scanned by the admin manually in order to provide attendance.
 *	Salary will be calculated according to the attendance of the employee
+
+### Assumptions and Dependencies
+
+*	We assume Admin, waiter and kitchen supervisor devices should be connected to the same configured Wi-Fi network.
+*	An assumption is that a order given cannot not be cancelled.
+*	Xampp server should be started. 
+*	For client needs we have created only 10 tables in the Staff App.
+*	We presume the admin generates the QR code using the Admin app and attaches it to employees' physical ID cards.
+*	Bills are generated in the mobile and no paper copy will be provided; the customer can pay the bill amount in cash or using UPI payments available at the cash counter.
+
+	
+
 #### Product Perspective
 
 It is a standalone system. It is responsible for managing the entire functioning of the restaurant and details of the employee. Reports can be generated at the end of the month and daily expense and remains are tallied. Bills are calculated according to the orders given by the customer which are placed by the waiter.
@@ -51,11 +36,7 @@ It is a standalone system. It is responsible for managing the entire functioning
 ![image](https://user-images.githubusercontent.com/57553824/120515123-a18c7600-c3eb-11eb-8779-96f86fca6ae7.png)
 
 
-### Assumptions and Dependencies
 
-*	We assume Admin, waiter and kitchen supervisor devices should be connected to the same configured Wi-Fi network.
-*An assumption is that a order given cannot not be cancelled.
-*	Xampp server should be started. 
  
 ### Software Interfaces
 * Backend: PHP 7.1
